@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041A\u0430\u0440\u0438\u043D\u0430\\Documents\\GameMaze\\GameMaze\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53963159-394E-4DCF-95AF-EA02323037C1}|GameMaze\\GameMaze.vcxproj|C:\\Users\\\u041A\u0430\u0440\u0438\u043D\u0430\\Documents\\GameMaze\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53963159-394E-4DCF-95AF-EA02323037C1}|GameMaze\\GameMaze.vcxproj|C:\\Users\\\u041A\u0430\u0440\u0438\u043D\u0430\\Documents\\GameMaze\\grafic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53963159-394E-4DCF-95AF-EA02323037C1}|GameMaze\\GameMaze.vcxproj|C:\\Users\\\u041A\u0430\u0440\u0438\u043D\u0430\\Documents\\GameMaze\\grafic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0430\u0440\u0438\u043D\u0430\\Documents\\GameMaze\\main.cpp",
+              "RelativeDocumentMoniker": "..\\main.cpp",
+              "ToolTip": "C:\\Users\\\u041A\u0430\u0440\u0438\u043D\u0430\\Documents\\GameMaze\\main.cpp",
+              "RelativeToolTip": "..\\main.cpp",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswIUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-25T18:38:36.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "grafic.cpp",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0430\u0440\u0438\u043D\u0430\\Documents\\GameMaze\\grafic.cpp",
+              "RelativeDocumentMoniker": "..\\grafic.cpp",
+              "ToolTip": "C:\\Users\\\u041A\u0430\u0440\u0438\u043D\u0430\\Documents\\GameMaze\\grafic.cpp",
+              "RelativeToolTip": "..\\grafic.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-25T16:48:26.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "grafic.h",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0430\u0440\u0438\u043D\u0430\\Documents\\GameMaze\\grafic.h",
+              "RelativeDocumentMoniker": "..\\grafic.h",
+              "ToolTip": "C:\\Users\\\u041A\u0430\u0440\u0438\u043D\u0430\\Documents\\GameMaze\\grafic.h",
+              "RelativeToolTip": "..\\grafic.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-25T16:34:37.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

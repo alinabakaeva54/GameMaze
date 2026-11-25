@@ -5,14 +5,22 @@ struct Griver {
 	int x;
 	int y;
 };
-void initGrafic();
+void initGrafic(int windowWidth=900,int windowHeight =700);
+void cleanGrafic();
+bool isWindowOpen();
+char getMoveInput();
+void delayFrame(float second = 0.04f);
 void drawMap(
 	const std::vector<std::string>& map,
 	int playerX,
 	int playerY,
+	bool isPlayerAlive,
+	bool isNight,
 	bool isliana,
 	const std::vector<Griver>& grivers,
-	int health,
-	int score
+	int level,
+	const std::vector<bool>& collectedMaps
 );
-void cleanGrafic();
+void drawDeathScreen(const std::string& reason);
+void drawLockedSector(const std::vector<bool>& collectedMaps);
+void drawWinScreen();
